@@ -1,0 +1,3 @@
+/home/grisha/git_testing/jpeg-decoder/CMakeFiles/jpeg_decoder.dir
+/home/grisha/git_testing/jpeg-decoder/CMakeFiles/edit_cache.dir
+/home/grisha/git_testing/jpeg-decoder/CMakeFiles/rebuild_cache.dir
